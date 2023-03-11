@@ -1,0 +1,74 @@
+body{
+    background-color: #e69b11;
+    color: #df0d0d;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+
+}
+span{
+    color: #0d0d0d;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    border: #df0d0d 5px solid;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    width: 200px;
+    height: 250px;
+    
+}
+#num1{
+    background-color: #887272;
+    color: #df0d0d
+    
+}
+.button{
+    background-color: #df0d0d;
+    color: #0d0d0d;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    border: #df0d0d 5px solid;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    width: 50px;
+    height: 20px;
+}
+#num2{
+    background-color: #887272;
+    color: #df0d0d
+}
+.button:hover{
+    background-color: #0d0d0d;
+    color: #df0d0d;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    border: #df0d0d 5px solid;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    width: 50px;
+    height: 20px;
+}
+.but{
+    background-color: #df0d0d;
+    color: #0d0d0d;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    border: #df0d0d 5px solid;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    width: 50px;
+    height: 20px;
+}
